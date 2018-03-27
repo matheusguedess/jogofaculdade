@@ -1,0 +1,16 @@
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\bin\Debug\ProjetoCientifico.exe.config
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\bin\Debug\ProjetoCientifico.exe
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\bin\Debug\ProjetoCientifico.pdb
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.Form1.resources
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.exe
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.pdb
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.Form2.resources
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.Form3.resources
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\bin\Debug\ProjetoCientifico.exe.manifest
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\bin\Debug\ProjetoCientifico.application
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.exe.manifest
+C:\Users\Matheus\Desktop\Faculdade\c#\Projeto Cientifico\Projeto Cientifico\ProjetoCientifico\obj\Debug\ProjetoCientifico.application

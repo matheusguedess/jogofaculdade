@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ProjetoCientifico.exe" version="1.0.0.0" publicKeyToken="d2e447b940d115ba" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ProjetoCientifico" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ProjetoCientifico.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto UAC
+          Se desejar mudar o nível de Controle de Conta de Usuário do Windows, substitua o 
+          nó requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se deseja usar a Virtualização de Arquivos e Registro para compatibilidade 
+         com versões anteriores, exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProjetoCientifico.exe" size="1535424">
+      <assemblyIdentity name="ProjetoCientifico" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>C+chuui6D7+Mc/nKnS2Lv1MPS2xb565hFjRXdFhcWHU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ProjetoCientifico.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MATHEUS\Matheus" issuerKeyHash="86bcb6e274aaf3072f637af730f380526a02f4ce" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2b48LAHP6LaW7PGr4/vfh0bkkTFDDiBkdH11OXoKCuI=</DigestValue></Reference></SignedInfo><SignatureValue>eQRtWR+byWuZ108V9/Ktk7xh50E8KdertsCl5MUSU43tkaMqj4BIHs0jedNnnQ/bjprHwqvl/AHOsO48aagXNwy5BnYIPC26Q6ipRY+7OAtm7QgZUHUgi6PDPqo9WLd5rB0xGy1svuZtzC0HUg4J5kP5uLPQOyZsMzxqcx0rR9g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2cxBPwrtkmFXYRm4b8oNwJBc7kEa/nUi70s7PO0nDl036F3t5WFUVE41sBXRoXcPfR6rlDW/Y86RFnlDj6CgK5Xtd/1xYWGYSF6S17RBd1X57OPtSrJpolTTj3eAi+jnSQL/Hdf6F8bSpxF8yydxWMdIHL1TUhz8MRJXCntRSn8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e20a0a7a39757d7464200e433191e44687dffbe3abf1ec96b6e8cf012c3cbed9" Description="" Url=""><as:assemblyIdentity name="ProjetoCientifico.exe" version="1.0.0.0" publicKeyToken="d2e447b940d115ba" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MATHEUS\Matheus</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>og4wqT31I49S3T9wKjo0FGwv6zpeD9WBNp++ogNkIj4=</DigestValue></Reference></SignedInfo><SignatureValue>gqqam8G7YL+3ucEIcFi2BEsHRkgzJV3UoJpmUWSF35h9nivXN3gXU9FM4F3jIyO31DYKAkFHcauaryJCNTd4ecx05hxFHRpI8cjqp66hJRQYnv8Er3YPdScy3iRJ3kbvcbzkyZj/O/fwJBxyInYS3j5LqKF3ZTINKgAIRnVCANY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2cxBPwrtkmFXYRm4b8oNwJBc7kEa/nUi70s7PO0nDl036F3t5WFUVE41sBXRoXcPfR6rlDW/Y86RFnlDj6CgK5Xtd/1xYWGYSF6S17RBd1X57OPtSrJpolTTj3eAi+jnSQL/Hdf6F8bSpxF8yydxWMdIHL1TUhz8MRJXCntRSn8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQeiuFj/f2SaFIkNQfhDfpiDANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ATQBBAFQASABFAFUAUwBcAE0AYQB0AGgAZQB1AHMwHhcNMTgwMzI3MjA1MTUzWhcNMTkwMzI4MDI1MTUzWjApMScwJQYDVQQDHh4ATQBBAFQASABFAFUAUwBcAE0AYQB0AGgAZQB1AHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANnMQT8K7ZJhV2EZuG/KDcCQXO5BGv51Iu9LOzztJw5dN+hd7eVhVFRONbAV0aF3D30eq5Q1v2POkRZ5Q4+goCuV7Xf9cWFhmEhekte0QXdV+ezj7UqyaaJU0493gIvo50kC/x3X+hfG0qcRfMsncVjHSBy9U1Ic/DESVwp7UUp/AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAPfdxg/hofDcQwCSXaY5PEYmtgMEtJkL2ZRcqXBLLcKj/ubiUBD/tjXmgfRxLsKEvRlTNqO7tHI1+99ubkzXDjWpuLdLssT06OBUobcc6caFWhXQv/G8n+wKu7a0zUtJP7qtxG5T7Mr6W0/LZVDVXU9OgBPap57tdEeeKf4PcIW8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
